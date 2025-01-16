@@ -70,7 +70,8 @@
                             Console.Write(members[i] + " - ");
                         }
                     }
-                    Console.Write("\b\b= ? (" + exampleSolve + ")\n");
+                    Console.Write("\b\b= ?\n");
+                    //Console.Write("\b\b= ? (" + exampleSolve + ")\n");
 
                     while (true)
                     {
